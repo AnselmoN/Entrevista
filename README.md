@@ -1,3 +1,11 @@
+
+#Esboço do projeto
+
+
+
+
 # Entrevista
 
 https://docs.google.com/forms/d/1YYivrMMhiOdihxjZkKCYN2SEvyCkPX0AVO4lYv032aM/edit?pli=1
+
+
