@@ -43,6 +43,10 @@ https://docs.google.com/forms/d/1YYivrMMhiOdihxjZkKCYN2SEvyCkPX0AVO4lYv032aM/edi
 
 Até o momento, não foi encontrado nenhum aplicativo similar ao qual estou propondo desenvolver. Os pouco aplicativos de dança que estão disponível no Play Store se limitam apenas a apresentar vídeos aulas de dança e coreografias , a exemplo: “Just Dance Now”, “ZumbaDance”, “Pocket Salsa Free”, “How To dance Salsa” e etc.
 
+# SEMRUSH PERSONA
+https://pt.semrush.com/persona/share/4TfwFXcdOQSxlPhpDDlBnIrdy3wPjHRIlkHmFpql7rg/
+
+
 
 
 
