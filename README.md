@@ -46,6 +46,9 @@ Até o momento, não foi encontrado nenhum aplicativo similar ao qual estou prop
 # SEMRUSH PERSONA
 https://pt.semrush.com/persona/share/4TfwFXcdOQSxlPhpDDlBnIrdy3wPjHRIlkHmFpql7rg/
 
+# Aplicativo de Gerenciamento de projeto
+https://trello.com/b/VRbLZ8OK/personal-dancer
+
 
 
 
