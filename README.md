@@ -49,11 +49,19 @@ https://pt.semrush.com/persona/share/4TfwFXcdOQSxlPhpDDlBnIrdy3wPjHRIlkHmFpql7rg
 # Aplicativo de Gerenciamento de projeto
 https://trello.com/b/VRbLZ8OK/personal-dancer
 
-# Produtos
+# Produtos App Personal Dancer
 
-# Exemplo 1
+# Exemplo 
+Para o dançarinos de plantão
+que tem dificuldade em encontrar um bom parceiro de dança
+o App Personal Dancer
+é um dispositivo móvel
+que facilita o encontro de um pessoa que dança de verdade
+diferente do modo tradicional
+o nosso produto garante o encontro de um Personal Dancer capacitado.
 
-# Exemplo 2
+# https://miro.com/app/board/uXjVLLfSP-g=/
+
 
 
 
