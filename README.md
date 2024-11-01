@@ -52,7 +52,7 @@ https://trello.com/b/VRbLZ8OK/personal-dancer
 # Produtos App Personal Dancer
 
 
-# Para o dançarinos de plantão
+ Para o dançarinos de plantão                                                                                                                                                              
  que tem dificuldade em encontrar um bom parceiro de dança                                                                                                                                 
  o App Personal Dancer                                                                                                                                                                     
  é um dispositivo móvel                                                                                                                                                                    
