@@ -58,9 +58,14 @@ https://trello.com/b/VRbLZ8OK/personal-dancer
  é um dispositivo móvel                                                                                                                                                                    
  que facilita o encontro de um pessoa que dança de verdade                                                                                                                                 
  diferente do modo tradicional                                                                                                                                                             
- o nosso produto garante o encontro de um Personal Dancer capacitado.                                                                                                                      
+ o nosso produto garante o encontro de um Personal Dancer capacitado.  
+ 
 
 # https://miro.com/app/board/uXjVLLfSP-g=/
+
+
+# Esclarecendo Objetivo
+
 
 
 
