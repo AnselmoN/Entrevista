@@ -65,7 +65,15 @@ https://trello.com/b/VRbLZ8OK/personal-dancer
 
 
 # Esclarecendo Objetivo
+----
+---
+fazer
 
+# Mapa da Jornada de Trabalho
+
+# https://files.fm/u/2z3wrq9keh
+
+#
 
 
 
