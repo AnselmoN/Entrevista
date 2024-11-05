@@ -72,10 +72,21 @@ fazer
 # Mapa da Jornada de Trabalho
 
 # https://files.fm/u/2z3wrq9keh
+#fazer mais jornada
 
-# Pesquisar->  parole.org
+---------------
 
-# 
+
+# Pesquisar->  carole.org
+------
+------
+-----
+
+
+#  Brainstorming de features
+# fazer mais features
+
+
 
 
 
