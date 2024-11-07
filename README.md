@@ -70,9 +70,11 @@ https://trello.com/b/VRbLZ8OK/personal-dancer
 fazer
 
 # Mapa da Jornada de Trabalho
-
+# Modelo 1
 # https://files.fm/u/2z3wrq9keh
-#fazer mais jornada
+# Modelo 2
+# https://files.fm/u/wsgsyb6gzq
+
 
 ---------------
 
