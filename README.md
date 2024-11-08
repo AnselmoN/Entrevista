@@ -75,6 +75,8 @@ fazer
 # Modelo 2
 # https://files.fm/u/wsgsyb6gzq
 
+# https://miro.com/app/board/uXjVLIeWW94=/
+
 
 ---------------
 
